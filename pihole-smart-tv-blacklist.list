@@ -1,6 +1,6 @@
 # Title: Alpha_A's SmartTV Blocklist for Pi-hole
 
-mzstatic.com
+# mzstatic.com # looks like Apple Image server, should be harmless
 pbs.org
 disney-plus.net
 cbsnews.com
@@ -11,10 +11,7 @@ amcnetworks.com
 discovery.com
 nflxext.com
 
-sentry.io
-
 # LG
 lgtvsdp.com
 lgtvcommon.com
 lge.com
-giraffic.com
